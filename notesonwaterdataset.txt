@@ -1,0 +1,2 @@
+1. We have 3276 rows and 10 columns
+2. We had null values in colum Ph,Sulfate and Trihalomethanes
